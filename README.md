@@ -9,3 +9,5 @@ Here is the list of projects from Day 1 to Day 100:
 #### Day 1: New Year Countdown
 
 #### Day 2: Analog and Digital Clock
+
+#### Day 3: Snake Game
